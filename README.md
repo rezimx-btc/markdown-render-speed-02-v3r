@@ -1,8 +1,8 @@
 # markdown-render-speed-02-v3r
 
-[![make.fun](https://make.fun/api/competitions/markdown-render-speed-02/badge)](https://make.fun/competitions/markdown-render-speed-02)
-[![rank](https://make.fun/api/competitions/markdown-render-speed-02/rank/rezimx-btc/markdown-render-speed-02-v3r)](https://make.fun/competitions/markdown-render-speed-02)
-[![reward](https://make.fun/api/competitions/markdown-render-speed-02/reward/rezimx-btc/markdown-render-speed-02-v3r)](https://make.fun/competitions/markdown-render-speed-02)
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/rezimx-btc/markdown-render-speed-02-v3r/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/rezimx-btc/markdown-render-speed-02-v3r/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
 
 A fast CommonMark + GFM renderer written from scratch in plain Node.js
 (no dependencies). It reads Markdown from stdin and writes HTML to stdout:
